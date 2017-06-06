@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT EXECUTE TO [CORP\WFM_Frontier];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CONNECT TO [CORP\WFM_Frontier];
+
